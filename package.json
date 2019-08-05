@@ -1,0 +1,24 @@
+{
+  "name": "my_modules",
+  "version": "1.0.0",
+  "description": "My custom built npm modules",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickflorianengineer/my_node_modules.git"
+  },
+  "keywords": [
+    "modules",
+    "node",
+    "js"
+  ],
+  "author": "Patrick Florian <patrickflorianengineer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickflorianengineer/my_node_modules/issues"
+  },
+  "homepage": "https://github.com/patrickflorianengineer/my_node_modules#readme"
+}
